@@ -5,6 +5,11 @@
 ####
 inform the directory containing the images for creating the sprite sheet, it will be sorted in alphabetical order, ensure that this rule exists in the file name
 
+## Download links
+- [spritesheetgen Linux](https://github.com/nelsonlpco/sprite-sheet-generator/releases/download/1.0/spritesheetgen-linux)
+- [spritesheetgen Windows](https://github.com/nelsonlpco/sprite-sheet-generator/releases/download/1.0/spritesheetgen-windows)
+- [spritesheetgen MacOs](https://github.com/nelsonlpco/sprite-sheet-generator/releases/download/1.0/spritesheetgen-macOs)
+
 #### options
 
 | Parameter | type   | default | Action | required |
