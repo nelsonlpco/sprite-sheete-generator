@@ -17,7 +17,7 @@ inform the directory containing the images for creating the sprite sheet, it wil
 | -p        | string |         | sprites resource path | yes |
 | -a        | number |  2      | Interpolation algorithm<br/>1 - Nearest-neighbor<br/>2 - Bilinear<br>3 - Bicubic<br/>4 - Mitchell-Netravali<br/>5 - Lanczos(2)<br/>6 - Lanczos(3) |
 | -s        | number |  1024   | Sprite sheet size |
-| -0        | string |  ./spriteSheet.png | Sprite sheet size |
+| -0        | string |  ./spriteSheet.png | Sprite sheet output (only png) |
 
 #### input sample
 
